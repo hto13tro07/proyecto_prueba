@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    color: #FFFFFF
+}
+
+header {
+    text-align: center;
+    background-color: #000000;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+header h1 {
+    font-size: 3.125em;
+    font-weight: 500;
+    margin: 0;
+}
+
+h1, h2, h4, p {
+    color: #FFFFFF
+}
+
+.jumbo {
+    width: 100%;
+    height: 90%;
+    font-size: 0px;
+}
+
+.jumbo img {
+    width: 100%;
+}
+
+.desc-section {
+    background-color: #000000;
+    padding: 4em 8em;
+}
+
+.desc-section p {
+    font-weight: 300;
+    margin: 0.5em auto;
+}
+
+.desc-section * {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.text, .image {
+    width: 49%;
+}
+
+.image {
+    text-align: right;
+}
+
+.image img {
+    width: 24.9em;
+    height: 14.8em;
+}
+
+.icons-section {
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 4.6em 8em;
+}
+
+.icons-section h2{
+    margin-bottom: 3.125rem;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.icons div {
+    display: inline-block;
+    vertical-align: middle;
+    margin: auto 4.68em;
+}
+
+.icons h4 {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.image-gallery * {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    width: 19.75em;
+    height: 12.625em;
+    margin: auto 0.24em;
+}
+
+.image-gallery {
+    padding: 4.56em 9.375em;
+    background-color: #000000;
+    text-align: center;
+}
+
+.footer {
+    background-color: #1E1A13;
+    padding: 2.43rem 18.68rem;
+    font-size: 1.25rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+.footer p {
+    margin: 0;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+
